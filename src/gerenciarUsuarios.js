@@ -23,6 +23,8 @@ function retornarUsuarios() {
 
 function adicionarNovoUsuario(usuario) {
     usuarios.push(usuario)
+
+
 }
 
 module.exports = {
